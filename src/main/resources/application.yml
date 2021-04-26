@@ -6,7 +6,7 @@ security:
 
 eureka:
   instance:
-    hostname: localhost
+    hostname: propets-eurekaservice.herokuapp.com
   client:
     registerWithEureka: false
     fetchRegistry: false
